@@ -1,7 +1,7 @@
 👋 Hey! I'm Anand,
   I'm interested in the intersection of computer science and neuroscience
 
-- 🌱 I’m currently learning BCI + ML
+🌱 I’m currently learning BCI + ML
 
 
 <!---
