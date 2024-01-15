@@ -2,7 +2,7 @@
   I'm interested in the intersection of computer science and neuroscience
 
 - 🌱 I’m currently learning ...
-  Neural networks of all kinds
+  BCI + ML
 
 
 <!---
