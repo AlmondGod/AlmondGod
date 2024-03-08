@@ -1,2 +1,3 @@
 Hi, I'm Anand!
- - ML + BCIs
+ - UPenn CS student
+ - Interested in the intersection of ML + BCIs
